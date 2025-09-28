@@ -114,7 +114,7 @@
         <varlistentry>
         <term><parameter>pointer</parameter></term>
         <listitem>
-            <para>Specifies a offset of the first component of the first generic vertex attribute in the array in the data store of the
+            <para>Specifies the offset of the first component of the first generic vertex attribute in the array in the data store of the
             buffer currently bound to the <constant>GL_ARRAY_BUFFER</constant> target. The initial value is 0.</para>
         </listitem>
         </varlistentry>
