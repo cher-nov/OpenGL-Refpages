@@ -237,7 +237,7 @@
             to indicate that the specified internal format supports mipmaps and to <constant>GL_FALSE</constant> otherwise.
         </para>
         <para>
-            If <parameter>pname</parameter> is <constant>GL_GENERATE_MIPMAP</constant> or <constant>GL_AUTO_GENERATE_MIPMAP</constant> then <parameter>params</parameter>
+            If <parameter>pname</parameter> is <constant>GL_MANUAL_GENERATE_MIPMAP</constant> or <constant>GL_AUTO_GENERATE_MIPMAP</constant> then <parameter>params</parameter>
             is indicates the level of support for manual or automatic mipmap generation for the specified internal format, respectively. Returned values
             may be one of <constant>GL_FULL_SUPPORT</constant>, <constant>GL_CAVEAT_SUPPORT</constant> and <constant>GL_NONE</constant> to indicate
             either full support, limited support or no support at all.
