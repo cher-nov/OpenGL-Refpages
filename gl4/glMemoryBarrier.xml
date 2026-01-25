@@ -55,7 +55,7 @@
                     <constant>GL_SHADER_STORAGE_BARRIER_BIT</constant>.
                 </para>
                 <para>
-                    For <function>glMemoryBarrier</function>, must be a
+                    For <function>glMemoryBarrierByRegion</function>, must be a
                     bitwise combination of any of
                     <constant>GL_ATOMIC_COUNTER_BARRIER_BIT</constant>, or
                     <constant>GL_FRAMEBUFFER_BARRIER_BIT</constant>,
