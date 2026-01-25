@@ -47,7 +47,7 @@
             </listitem>
         </varlistentry>
         <varlistentry>
-            <term><parameter>x</parameter></term>
+            <term><parameter>y</parameter></term>
             <listitem>
                 <para>
                     Specifies the second vector to be used in the comparison operation.
