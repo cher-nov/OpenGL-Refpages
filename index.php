@@ -87,6 +87,9 @@ include_once("../../assets/static_pages/khr_page_top.php");
 <p> <a href="https://github.com/Eyescale/Equalizer">Equalizer</a> -
     Middleware to create and deploy parallel OpenGL-based applications. </p>
 
+<p> <a href="https://www.glfw.org/">GLFW</a> - A multi-platform library
+    for OpenGL, OpenGL ES, Vulkan, window and input. </p>
+
 <p> <a href="https://github.com/nigels-com/glew">GLEW</a> - The OpenGL
     Extension Wrangler Library. </p>
 
@@ -106,15 +109,19 @@ include_once("../../assets/static_pages/khr_page_top.php");
 
 <h2> Tools </h2>
 
-<p> <a href="https://github.com/GPUOpen-Tools/CodeXL"> CodeXL </a> - AMD
-    tool suite for GPU debugging, profiling, and shader analysis. </p>
+<p> <a href="https://renderdoc.org/"> RenderDoc </a> -
+    A free MIT licensed stand-alone graphics debugger. </p>
 
 <p> <a href="https://github.com/KhronosGroup/KTX"> KTX </a> - lightweight
     file format for OpenGL textures, and <tt> libktx </tt> library for
     reading and writing KTX files. </p>
 
+<p> <a href="https://github.com/Dav1dde/glad"> GLAD </a> -
+    Multi-Language Vulkan/OpenGL/GLES/EGL/GLX/WGL Loader-Generator based
+    on the official specs. </p>
+
 <p> <a href="https://github.com/dtrebilco/glintercept"> GLIntercept </a> -
-    OpenGL function call intercept & logging tool. </p>
+    OpenGL function call intercept &amp; logging tool. </p>
 
 <p> <a href="https://github.com/KhronosGroup/glslang"> GLSLang </a> - OpenGL
     Shading Language Reference Compiler. </p>
@@ -122,9 +129,11 @@ include_once("../../assets/static_pages/khr_page_top.php");
 <p> <a href="http://realtech-vr.com/admin/glview"> GLView </a> - OpenGL
     Extensions Viewer. </p>
 
-<p> <a href="https://developer.nvidia.com/gameworks-tools-overview"> NVIDIA
+<p> <a href="https://developer.nvidia.com/tools-overview"> NVIDIA
     Nsight Visual Studio</a> (and other developer tools). </p>
 
+<p> <a href="https://gpuopen.com/tools/"> AMD
+    Radeon GPU Profiler &amp; Analyzer</a> (and other developer tools). </p>
 
 <h2> Tutorials </h2>
 
