@@ -76,7 +76,7 @@
             <function>glDrawElementsIndirect</function> specifies multiple indexed geometric primitives
             with very few subroutine calls. <function>glDrawElementsIndirect</function> behaves
             similarly to <citerefentry><refentrytitle>glDrawElementsInstancedBaseVertexBaseInstance</refentrytitle></citerefentry>,
-            execpt that the parameters to <citerefentry><refentrytitle>glDrawElementsInstancedBaseVertexBaseInstance</refentrytitle></citerefentry>
+            except that the parameters to <citerefentry><refentrytitle>glDrawElementsInstancedBaseVertexBaseInstance</refentrytitle></citerefentry>
             are stored in memory at the address given by <parameter>indirect</parameter>.
         </para>
         <para>
